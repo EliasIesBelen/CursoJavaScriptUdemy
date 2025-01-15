@@ -11,7 +11,7 @@ console.log(typeof nombre);
 nombre = 123;
 console.log(typeof nombre);
 
- //Se debe poner en minuscula
+//Se debe poner en minuscula
 let esMarvel = true;
 
 let edad = 33.0002;
